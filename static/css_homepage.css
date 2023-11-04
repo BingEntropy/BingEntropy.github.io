@@ -1,0 +1,35 @@
+
+	#div_12{ width:1209px; height:825px; background-image:url(../images/images_life_center.jpg);
+			 margin:0px auto; border-top:1px #004d95 solid;}
+		
+		#div_121{ width:1209px; height:260px; 
+					border-bottom:1px #004d95 solid;}
+			#div_text{ width:1209px; height:245px; margin: 45px 20px 45px 180px;}
+			#textname{ font-family:"寰蒋闆呴粦"; font-size:30px;
+			   text-align:left; text-decoration:none;
+			   letter-spacing:1px; line-height:20px;}
+			#nand{ color:#000; text-decoration:none}
+			#intro{ font-family:"寰蒋闆呴粦"; font-size:20px; color:#000;
+				   letter-spacing:0.15px; line-height:39.5px}
+			#node{ font-family:"寰蒋闆呴粦"; font-size:19.5px; color:#0a1ee9;
+				   text-decoration:none}
+			#CVnodeC{ font-weight:bold; 
+				   color:#0a1ee9;
+				   text-decoration:none}
+		
+		#div_122{ width:1209px; height:350px;}
+			#Photo_Wall{ font-family:"寰蒋闆呴粦"; font-size:30px; font-weight:bold;
+						 text-align:center; 
+						 letter-spacing:1px;}
+			#div1{ width:1209px; height:245px;
+				   position:relative; overflow: hidden;
+				   margin:20px 0px 20px 0px;}
+				#div1>ul{ position:absolute;
+						  top:0; left:0;}		
+				#div1>ul>li{ width:200px; height:215px;
+							  float:left; margin:15px 20px 15px 20px;
+							  list-style:none; border-radius:50%;}
+				#images{ width:200px; height:200px;
+						 float:left; margin:10px 25px 10px 25px;
+						 position:relative; overflow:hidden;
+						 border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%;}
